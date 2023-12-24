@@ -10,4 +10,4 @@ npx tailwindcss init
 
 # Vs Code Extension
  TailWind CSS Intellisense
- ![alt text](https://github.com/[Sazith]/[tailwind-project]/blob/[main]/intellisense.pngraw=true)
+![Screenshot](intellisense.png)
